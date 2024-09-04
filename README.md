@@ -1,4 +1,5 @@
 Starthub - Sistema de Gerenciamento de Startups
+
 Este é o material que produzi para o processo seletivo LAPES 2024, onde me candidatei para a posição de desenvolvedor back-end. Criei uma API robusta conectada a um banco de dados, que alimentei com os dados fornecidos. Este sistema, que nomeei 'Starthub', funciona como uma plataforma de gerenciamento de startups, oferecendo uma interface eficiente e intuitiva para a administração de empresas emergentes.
 
 Funcionalidades da API
